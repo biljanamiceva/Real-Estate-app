@@ -1,0 +1,112 @@
+.app__popularPlaces{
+    background: var(--color-white);
+    padding: 2rem 4rem;
+    flex-direction: column;
+    margin-top: 3rem;
+}
+
+.app__popularPlaces-heading{
+    text-align: center;
+
+}
+
+.app__popularPlaces-p{
+    margin-top: 2rem;
+    width: 60%;
+    text-align: center;
+ }
+
+ .app__popularPlaces-cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    margin-top: 3rem;
+    
+   
+}
+.app__popularPlaces-card{
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    margin: 1rem;
+}
+.card-popularPlaces{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 2px;
+    position: relative;
+}
+.p-absolute-icon{
+    position: absolute;
+    border: 1px solid var(--color-blue);
+    font-size: 25px;
+    bottom: 25px;
+    left: 300px;
+    border-radius: 5px;
+    width: 40px;
+    height: 35px;
+    color: var(--color-blue);
+}
+
+.p-absolute-icon:hover{
+    background-color: var(--color-blue);
+    color: var(--color-white);
+    
+}
+
+
+  .app__popularPlaces-button button{
+    background-color: var(--color-white);
+     color: var(--color-blue);
+     font-family: var(--font-alt);
+     font-weight: 500;
+     letter-spacing: 0.04em;
+     line-height: 28px;
+     font-size: 16px;
+     margin-top: 2rem;
+     padding: 1rem 2rem;
+     border: 1px solid var(--color-blue);
+     border-radius: 10px;
+     cursor: pointer;
+ 
+   }
+   .app__popularPlaces-button button:hover{
+    background-color: var(--color-blue);
+    color: var(--color-white);
+  }
+
+.app__popularPlaces-card img {
+    width: 350px;
+    height: auto;
+    object-fit: cover;
+}
+
+.app__popularPlaces-card_content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 1rem;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+
+@media screen and (max-width: 650px) {
+    .app__popularPlaces-card  img{
+        width: 300px;
+        height: auto;
+        object-fit: cover;
+    }
+    .app__popularPlaces-cards {
+        width: 300px;
+        margin: 1rem 0;
+    }
+    .p-absolute-icon{
+        left: 230px;
+        bottom: 35px;
+    }
+}
+
