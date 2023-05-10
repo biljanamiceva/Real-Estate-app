@@ -1,12 +1,13 @@
 # Real-Estate-app
+![image](https://github.com/biljanamiceva/Real-Estate-app/assets/63147001/50620038-cce3-4a6f-9713-d9a547154b55)
+![image](https://github.com/biljanamiceva/Real-Estate-app/assets/63147001/1bc791d6-ec78-47d3-b5a2-c0752b977a5e)
+![image](https://github.com/biljanamiceva/Real-Estate-app/assets/63147001/e7e77e98-787c-44f2-a77e-f724ea13e8a7)
+![image](https://github.com/biljanamiceva/Real-Estate-app/assets/63147001/14542d53-bb0b-4356-a28b-95e0ec6ab988)
+![image](https://github.com/biljanamiceva/Real-Estate-app/assets/63147001/b239dd95-a7b3-48f7-990e-298fee8e3709)
+![image](https://github.com/biljanamiceva/Real-Estate-app/assets/63147001/e189d664-4477-4723-aaef-0715fd6add92)
+![image](https://github.com/biljanamiceva/Real-Estate-app/assets/63147001/e8ea7bd2-ff4a-42bd-9277-cc319baa4d34)
+![image](https://github.com/biljanamiceva/Real-Estate-app/assets/63147001/7eeb6c5b-8f88-46f7-9dcf-8b249042d7be)
 
-![image](https://github.com/biljanamiceva/Real-Estate-app/assets/63147001/f65d118c-1576-44f5-8cd5-635cfda5c52b)
-![image](https://github.com/biljanamiceva/Real-Estate-app/assets/63147001/51108a8b-f3be-4cc1-b8cb-7c5d707eec1b)
-![image](https://github.com/biljanamiceva/Real-Estate-app/assets/63147001/2c6a27ab-eb3f-40a2-9827-b2b99766dad4)
-![image](https://github.com/biljanamiceva/Real-Estate-app/assets/63147001/83d0b51c-8054-4764-83a5-b4b9d1ed89f7)
-![image](https://github.com/biljanamiceva/Real-Estate-app/assets/63147001/44dfd20f-572f-4984-97b6-37391f133c90)
-![image](https://github.com/biljanamiceva/Real-Estate-app/assets/63147001/a253c8f9-cb7f-4c0a-b2b5-1ac1073ae1a6)
-![image](https://github.com/biljanamiceva/Real-Estate-app/assets/63147001/abd63afe-048e-4bbd-9a19-5817413d2c40)
 
 
 
